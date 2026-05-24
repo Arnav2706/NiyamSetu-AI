@@ -214,6 +214,9 @@ This enables:
 | Cross-Team Coordination    | ↑ Improved           |
 
 ---
+## 📈 Impact Visualization
+<img width="1036" height="583" alt="Expected Operational Impact" src="https://github.com/user-attachments/assets/82a92577-0b37-46d9-9118-11cdcc3a1453" />
+
 
 # 🔐 Security & Privacy
 
